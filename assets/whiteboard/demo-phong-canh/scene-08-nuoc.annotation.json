@@ -1,0 +1,203 @@
+{
+  "sceneId": "scene-08",
+  "canvas": {
+    "width": 1280,
+    "height": 720
+  },
+  "storyBasis": "",
+  "sceneDurationMs": 9000,
+  "elements": [
+    {
+      "id": "region-1",
+      "label": "Đối tượng 1",
+      "sequence": 1,
+      "narrativeRole": "",
+      "subtitle": "",
+      "type": "object",
+      "region": {
+        "x": 58,
+        "y": 208,
+        "width": 450,
+        "height": 130
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 300,
+        "durationMs": 1242,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          283,
+          221
+        ],
+        "end": [
+          283,
+          325
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "region-2",
+      "label": "Đối tượng 2",
+      "sequence": 2,
+      "narrativeRole": "",
+      "subtitle": "",
+      "type": "object",
+      "region": {
+        "x": 0,
+        "y": 415,
+        "width": 1280,
+        "height": 10
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 1692,
+        "durationMs": 1242,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          640,
+          416
+        ],
+        "end": [
+          640,
+          424
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "region-3",
+      "label": "Đối tượng 3",
+      "sequence": 3,
+      "narrativeRole": "",
+      "subtitle": "",
+      "type": "object",
+      "region": {
+        "x": 0,
+        "y": 470,
+        "width": 1280,
+        "height": 10
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 3083,
+        "durationMs": 1242,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          640,
+          471
+        ],
+        "end": [
+          640,
+          479
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "region-4",
+      "label": "Đối tượng 4",
+      "sequence": 4,
+      "narrativeRole": "",
+      "subtitle": "",
+      "type": "object",
+      "region": {
+        "x": 0,
+        "y": 525,
+        "width": 1280,
+        "height": 10
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 4475,
+        "durationMs": 1242,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          640,
+          526
+        ],
+        "end": [
+          640,
+          534
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "region-5",
+      "label": "Đối tượng 5",
+      "sequence": 5,
+      "narrativeRole": "",
+      "subtitle": "",
+      "type": "object",
+      "region": {
+        "x": 0,
+        "y": 580,
+        "width": 1280,
+        "height": 10
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 5867,
+        "durationMs": 1242,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          640,
+          581
+        ],
+        "end": [
+          640,
+          589
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "region-6",
+      "label": "Đối tượng 6",
+      "sequence": 6,
+      "narrativeRole": "",
+      "subtitle": "",
+      "type": "object",
+      "region": {
+        "x": 848,
+        "y": 197,
+        "width": 104,
+        "height": 46
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 7258,
+        "durationMs": 1242,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          900,
+          202
+        ],
+        "end": [
+          900,
+          238
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

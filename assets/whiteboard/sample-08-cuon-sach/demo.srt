@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:04,500
+Một cuốn sách đang khép lại, chứa đựng bao điều bí ẩn.
+
+2
+00:00:04,500 --> 00:00:09,000
+Bụi nhẹ bay lên khi cuốn sách được nhấc lên khỏi kệ.
+
+3
+00:00:09,000 --> 00:00:13,500
+Sách được mở ra, từng trang chữ dần hiện lên trước mắt.
+
+4
+00:00:13,500 --> 00:00:18,000
+Một chiếc kính lúp xuất hiện, soi rõ từng con chữ.

@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:04,500
+Buổi sáng sớm, mặt trời bắt đầu nhô lên sau dãy núi.
+
+2
+00:00:04,500 --> 00:00:09,000
+Vài chú chim bay về phía ánh nắng ấm áp.
+
+3
+00:00:09,000 --> 00:00:13,500
+Nắng lên cao, cả bầu trời bừng sáng rực rỡ.
+
+4
+00:00:13,500 --> 00:00:18,000
+Những đám mây trắng trôi nhẹ ngang qua đỉnh núi.

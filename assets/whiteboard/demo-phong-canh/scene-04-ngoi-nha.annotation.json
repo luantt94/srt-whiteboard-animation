@@ -1,0 +1,107 @@
+{
+  "sceneId": "scene-04",
+  "canvas": {
+    "width": 1280,
+    "height": 720
+  },
+  "storyBasis": "Trưa đến, ngôi nhà nhỏ hiện ra giữa đồng; một chú chim bay ngang qua đám mây trắng.",
+  "sceneDurationMs": 8600,
+  "elements": [
+    {
+      "id": "cloud",
+      "label": "Đám mây",
+      "sequence": 1,
+      "narrativeRole": "bối cảnh bầu trời",
+      "subtitle": "Một chú chim bay ngang qua đám mây trắng.",
+      "type": "structure",
+      "region": {
+        "x": 120,
+        "y": 55,
+        "width": 470,
+        "height": 270
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 300,
+        "durationMs": 2400,
+        "maskPaddingPx": 20,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          355,
+          82
+        ],
+        "end": [
+          355,
+          298
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "house",
+      "label": "Ngôi nhà",
+      "sequence": 2,
+      "narrativeRole": "chủ thể chính",
+      "subtitle": "Trưa đến, ngôi nhà nhỏ hiện ra giữa đồng.",
+      "type": "structure",
+      "region": {
+        "x": 440,
+        "y": 300,
+        "width": 445,
+        "height": 385
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 2900,
+        "durationMs": 2900,
+        "maskPaddingPx": 20,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          662,
+          338
+        ],
+        "end": [
+          662,
+          646
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "bird",
+      "label": "Chú chim",
+      "sequence": 3,
+      "narrativeRole": "hành động / khép cảnh",
+      "subtitle": "Một chú chim bay ngang qua đám mây trắng.",
+      "type": "structure",
+      "region": {
+        "x": 890,
+        "y": 100,
+        "width": 335,
+        "height": 250
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 6000,
+        "durationMs": 2200,
+        "maskPaddingPx": 20,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          1057,
+          125
+        ],
+        "end": [
+          1057,
+          325
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

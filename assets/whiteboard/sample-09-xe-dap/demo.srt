@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:04,500
+Chiếc xe đạp đang đứng yên, chờ đợi một chuyến đi.
+
+2
+00:00:04,500 --> 00:00:09,000
+Một giỏ hoa nhỏ được treo phía trước ghi đông.
+
+3
+00:00:09,000 --> 00:00:13,500
+Xe đạp lăn bánh băng băng, gió thổi tung bay phía sau.
+
+4
+00:00:13,500 --> 00:00:18,000
+Hai bên đường, hàng cây lướt qua vun vút.

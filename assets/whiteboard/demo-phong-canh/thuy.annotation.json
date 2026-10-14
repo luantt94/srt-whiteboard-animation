@@ -1,0 +1,107 @@
+{
+  "sceneId": "scene-11",
+  "canvas": {
+    "width": 919,
+    "height": 922
+  },
+  "storyBasis": "",
+  "sceneDurationMs": 13400,
+  "elements": [
+    {
+      "id": "region-1",
+      "label": "Vùng 1",
+      "sequence": 1,
+      "narrativeRole": "bối cảnh mở đầu",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 0,
+        "y": 0,
+        "width": 437,
+        "height": 916
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 300,
+        "durationMs": 8200,
+        "maskPaddingPx": 20,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          218.5,
+          458.0
+        ],
+        "end": [
+          218.5,
+          916
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "region_2_16410",
+      "label": "Khối mới",
+      "sequence": 2,
+      "narrativeRole": "",
+      "type": "object",
+      "subtitle": "",
+      "region": {
+        "x": 438,
+        "y": 0,
+        "width": 257,
+        "height": 922
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 8700,
+        "durationMs": 2000,
+        "maskPaddingPx": 22,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          566.5,
+          461.0
+        ],
+        "end": [
+          566.5,
+          922
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "region_3_31546",
+      "label": "Khối mới",
+      "sequence": 3,
+      "narrativeRole": "",
+      "type": "object",
+      "subtitle": "",
+      "region": {
+        "x": 689,
+        "y": 0,
+        "width": 230,
+        "height": 922
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 10900,
+        "durationMs": 2000,
+        "maskPaddingPx": 22,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          804.0,
+          461.0
+        ],
+        "end": [
+          804.0,
+          922
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

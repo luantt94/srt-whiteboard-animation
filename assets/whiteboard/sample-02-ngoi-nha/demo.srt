@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:04,500
+Bên gốc cây xanh có một khoảng đất trống yên bình.
+
+2
+00:00:04,500 --> 00:00:09,000
+Một chú chó nhỏ chạy ngang qua bãi cỏ.
+
+3
+00:00:09,000 --> 00:00:13,500
+Một ngôi nhà nhỏ xinh được dựng lên cạnh gốc cây.
+
+4
+00:00:13,500 --> 00:00:18,000
+Khói bay lên từ ống khói, có người đang trên đường về nhà.

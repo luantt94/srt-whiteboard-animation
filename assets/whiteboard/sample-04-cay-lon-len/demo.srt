@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:04,500
+Một hạt giống nhỏ bé được gieo xuống đất.
+
+2
+00:00:04,500 --> 00:00:09,000
+Giọt mưa và ánh nắng giúp hạt giống nảy mầm.
+
+3
+00:00:09,000 --> 00:00:13,500
+Theo thời gian, hạt giống lớn lên thành cây to với trái chín đỏ.
+
+4
+00:00:13,500 --> 00:00:18,000
+Một chú chim nhỏ đậu trên cành hót vang.

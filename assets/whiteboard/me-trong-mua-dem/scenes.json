@@ -1,0 +1,45 @@
+{
+  "cues": [
+    {
+      "index": 1,
+      "startMs": 0,
+      "endMs": 4300,
+      "durMs": 4300,
+      "text": "Buổi sáng, mặt trời nhô lên sau ngọn núi."
+    },
+    {
+      "index": 2,
+      "startMs": 4300,
+      "endMs": 8600,
+      "durMs": 4300,
+      "text": "Một cái cây nhỏ đứng lặng bên sườn đồi."
+    },
+    {
+      "index": 3,
+      "startMs": 8600,
+      "endMs": 13000,
+      "durMs": 4400,
+      "text": "Trưa đến, ngôi nhà nhỏ hiện ra giữa đồng."
+    },
+    {
+      "index": 4,
+      "startMs": 13000,
+      "endMs": 17200,
+      "durMs": 4200,
+      "text": "Một chú chim bay ngang qua đám mây trắng."
+    }
+  ],
+  "scenes": [
+    {
+      "sceneIndex": 1,
+      "startMs": 0,
+      "endMs": 17200,
+      "sceneDurationMs": 17200,
+      "cueRange": [
+        1,
+        4
+      ],
+      "text": "Buổi sáng, mặt trời nhô lên sau ngọn núi. Một cái cây nhỏ đứng lặng bên sườn đồi. Trưa đến, ngôi nhà nhỏ hiện ra giữa đồng. Một chú chim bay ngang qua đám mây trắng."
+    }
+  ]
+}

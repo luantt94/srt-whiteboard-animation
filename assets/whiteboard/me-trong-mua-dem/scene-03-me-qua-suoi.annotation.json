@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene-03",
+  "canvas": {
+    "width": 1280,
+    "height": 720
+  },
+  "storyBasis": "",
+  "sceneDurationMs": 9000,
+  "elements": [
+    {
+      "id": "region-1",
+      "label": "Đối tượng 1",
+      "sequence": 1,
+      "narrativeRole": "",
+      "subtitle": "",
+      "type": "object",
+      "region": {
+        "x": 0,
+        "y": 332,
+        "width": 1280,
+        "height": 330
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 300,
+        "durationMs": 8200,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          640,
+          365
+        ],
+        "end": [
+          640,
+          629
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1920,
+    "height": 1280
+  },
+  "storyBasis": "Buổi sáng, mặt trời nhô lên sau ngọn núi. Một cái cây nhỏ đứng lặng bên sườn đồi.",
+  "sceneDurationMs": 10350,
+  "elements": [
+    {
+      "id": "region-1",
+      "label": "Đối tượng 1",
+      "sequence": 1,
+      "narrativeRole": "",
+      "subtitle": "Buổi sáng, mặt trời nhô lên sau ngọn núi. Một cái cây nhỏ đứng lặng bên sườn đồi.",
+      "type": "object",
+      "region": {
+        "x": 0,
+        "y": 0,
+        "width": 990,
+        "height": 1280
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 300,
+        "durationMs": 3900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          495.0,
+          640.0
+        ],
+        "end": [
+          495.0,
+          1280
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "region-2",
+      "label": "Đối tượng 2",
+      "sequence": 2,
+      "narrativeRole": "",
+      "subtitle": "Buổi sáng, mặt trời nhô lên sau ngọn núi. Một cái cây nhỏ đứng lặng bên sườn đồi.",
+      "type": "object",
+      "region": {
+        "x": 991,
+        "y": 0,
+        "width": 662,
+        "height": 1280
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 4200,
+        "durationMs": 2075,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          1322.0,
+          640.0
+        ],
+        "end": [
+          1322.0,
+          1280
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "region-3",
+      "label": "Đối tượng 3",
+      "sequence": 3,
+      "narrativeRole": "",
+      "subtitle": "Buổi sáng, mặt trời nhô lên sau ngọn núi. Một cái cây nhỏ đứng lặng bên sườn đồi.",
+      "type": "object",
+      "region": {
+        "x": 1645,
+        "y": 0,
+        "width": 275,
+        "height": 1280
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 6275,
+        "durationMs": 3575,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          1782.5,
+          640.0
+        ],
+        "end": [
+          1782.5,
+          1280
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

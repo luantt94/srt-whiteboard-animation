@@ -52,6 +52,22 @@ python scripts/prepare_env.py
 
 成功后第一条命令会输出 `ENV_PY=<路径>`；后续渲染请使用该解释器，确保依赖隔离。
 
+## 图形界面（PySide6 App）
+
+不想敲命令行的话，可用内置的桌面应用 **SRT Whiteboard Studio**，它把解析字幕、
+管理项目、生成标注、渲染分幕、合并成片，以及给成片配音 / 烧录字幕（ffmpeg +
+edge-tts）整合到一个窗口：
+
+```bash
+python app/launch.py      # Windows 也可双击 run_app.bat；macOS/Linux 用 ./run_app.sh
+```
+
+首次运行会自动建立 `.venv` 并补齐 `opencv-python / numpy / av / Pillow / PySide6`。
+操作说明（越南语）见 [`docs/HUONG_DAN_APP.md`](docs/HUONG_DAN_APP.md)。
+
+仓库自带一个可直接试跑的示例项目 `assets/whiteboard/demo-phong-canh/`（2 幕线稿 +
+标注 + SRT + scenes.json）；`python examples/make_demo_project.py` 可随时重新生成。
+
 ## 项目素材结构
 
 ```text
@@ -141,15 +157,22 @@ python scripts/render_annotation_preview.py <图片路径> <标注路径> <预�
 ```text
 srt-whiteboard-animation/
 ├── SKILL.md                         # 完整工作流与约束
+├── app/                             # PySide6 图形界面
+│   ├── launch.py                     # 启动器（建环境 + 装 PySide6 + 开窗）
+│   └── whiteboard_studio.py          # 主程序
+├── docs/HUONG_DAN_APP.md            # App 使用说明（越南语）
 ├── assets/
 │   ├── drawing-hand.png              # 手部素材
 │   ├── preview.html                  # 本地编辑预览台
-├── examples/                         # README 案例素材
+│   └── whiteboard/demo-phong-canh/   # 可直接试跑的示例项目
+├── examples/
+│   └── make_demo_project.py          # 生成示例项目
 ├── scripts/
 │   ├── parse_srt.py                  # 字幕解析与分镜建议
 │   ├── render_annotation_preview.py  # 标注检查图
 │   ├── render_stream_whiteboard.py   # 流式笔迹 MP4 渲染器
 │   ├── merge_scenes.py               # 多幕合并
+│   ├── postprocess_video.py          # 配音 / 烧录字幕（ffmpeg + edge-tts）
 │   └── prepare_env.py                # 依赖环境准备
 └── agents/openai.yaml                # Codex 元数据
 ```
